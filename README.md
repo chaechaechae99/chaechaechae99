@@ -13,8 +13,6 @@
 | 5 | **도트 축구 매니저** (가제) | 구단 운영 + 경기 시뮬 | ▶ 개발 중 | — |
 | ? | **???** | 타이쿤 | 🔒 LOCKED | — |
 
-<sub>공항 키우기는 무료 서버라 처음 열 때 1분쯤 걸릴 수 있어요</sub>
-
 <details><summary><b>BONUS ROOM</b> — 비전 AI 실험들</summary>
 
 [yolo26-webcam](https://github.com/chaechaechae99/yolo26-webcam) · [hand-landmark](https://chaechaechae99.github.io/hand-landmark/) · [gesture-recognition](https://github.com/chaechaechae99/gesture-recognition) · [face-landmark](https://github.com/chaechaechae99/face-landmark) · [pc-dragonball](https://chaechaechae99.github.io/pc-dragonball/) · [ardushop](https://github.com/chaechaechae99/ardushop)
