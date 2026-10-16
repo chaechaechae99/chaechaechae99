@@ -1,33 +1,21 @@
 <img src="assets/arcade.svg" width="100%" alt="CHAE ARCADE" />
 
-### ▶ NOW PLAYING
+<img src="assets/player.svg" width="100%" alt="PLAYER STATUS — LV.3 견습 게임 개발자 / SKILL: Python, Windows, Git" />
 
-| GAME | | |
-|:--|:--|:-:|
-| **신입사원 공항 키우기** | 빈 땅에서 시작해 공항 재벌까지 | [1P START](https://airport-rookie.onrender.com/) |
-| **운결** | 오늘 운세 뽑기 | [1P START](https://chaechaechae99.github.io/fortune-service-site/) |
-| **두더지 잡기** | 손이 빠른 사람만 | [1P START](https://chaechaechae99.github.io/whack-a-mole/) |
-| **모션 스네이크** | 키보드 대신 몸으로 | [SOURCE](https://github.com/chaechaechae99/snake) |
+### 🕹 STAGE SELECT
 
-### 🏆 HIGH SCORE — 써 본 언어 & 도구
+| STAGE | GAME | GENRE | STATUS | |
+|:-:|:--|:--|:-:|:-:|
+| 1 | **신입사원 공항 키우기** | 공항 경영 시뮬레이션 | ★ CLEAR | [▶ PLAY](https://airport-rookie.onrender.com/) |
+| 2 | **운결** | 사주 · 타로 · 꿈해몽 | ★ CLEAR | [▶ PLAY](https://chaechaechae99.github.io/fortune-service-site/) |
+| 3 | **두더지 잡기** | 아케이드 | ★ CLEAR | [▶ PLAY](https://chaechaechae99.github.io/whack-a-mole/) |
+| 4 | **모션 스네이크** | 몸짓으로 조종 | ★ CLEAR | [▶ CODE](https://github.com/chaechaechae99/snake) |
+| 5 | **도트 축구 매니저** (가제) | 구단 운영 + 경기 시뮬 | ▶ 개발 중 | — |
+| ? | **???** | 타이쿤 | 🔒 LOCKED | — |
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,nextjs,opencv,git,github,vscode&perline=10" alt="skills" />
+<sub>공항 키우기는 무료 서버라 처음 열 때 1분쯤 걸릴 수 있어요</sub>
 
-| RANK | NAME | PLAYED IN |
-|:-:|:--|:--|
-| 1ST | **Python** | 공항 키우기 (tkinter · 웹 서버), YOLO · MediaPipe 비전 실험 |
-| 2ND | **TypeScript** · Next.js | 운결, ardushop |
-| 3RD | **JavaScript** · HTML · CSS | 두더지 잡기, 모션 스네이크, PC 견적 페이지 |
-| 4TH | **Git** · GitHub | 지금 보고 있는 이 프로필 |
-
-### COMING SOON
-
-```
-??? 축구 게임 ............ 제작 대기
-??? 타이쿤 ............... 기획 중
-```
-
-<details><summary>연구실 — 비전 AI 실험들</summary>
+<details><summary><b>BONUS ROOM</b> — 비전 AI 실험들</summary>
 
 [yolo26-webcam](https://github.com/chaechaechae99/yolo26-webcam) · [hand-landmark](https://chaechaechae99.github.io/hand-landmark/) · [gesture-recognition](https://github.com/chaechaechae99/gesture-recognition) · [face-landmark](https://github.com/chaechaechae99/face-landmark) · [pc-dragonball](https://chaechaechae99.github.io/pc-dragonball/) · [ardushop](https://github.com/chaechaechae99/ardushop)
 
