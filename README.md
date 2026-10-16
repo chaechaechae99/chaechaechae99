@@ -9,6 +9,17 @@
 | **두더지 잡기** | 손이 빠른 사람만 | [1P START](https://chaechaechae99.github.io/whack-a-mole/) |
 | **모션 스네이크** | 키보드 대신 몸으로 | [SOURCE](https://github.com/chaechaechae99/snake) |
 
+### 🏆 HIGH SCORE — 써 본 언어 & 도구
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,nextjs,opencv,git,github,vscode&perline=10" alt="skills" />
+
+| RANK | NAME | PLAYED IN |
+|:-:|:--|:--|
+| 1ST | **Python** | 공항 키우기 (tkinter · 웹 서버), YOLO · MediaPipe 비전 실험 |
+| 2ND | **TypeScript** · Next.js | 운결, ardushop |
+| 3RD | **JavaScript** · HTML · CSS | 두더지 잡기, 모션 스네이크, PC 견적 페이지 |
+| 4TH | **Git** · GitHub | 지금 보고 있는 이 프로필 |
+
 ### COMING SOON
 
 ```
