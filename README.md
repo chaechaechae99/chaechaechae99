@@ -22,12 +22,12 @@
 **STAGE 4 · 모션 스네이크** &nbsp; `★ CLEAR` · [▶ CODE](https://github.com/chaechaechae99/snake)  
 키보드는 치워 두세요. 몸을 흔들면 뱀이 움직입니다.
 
-<a href="https://github.com/chaechaechae99/snake"><img src="assets/stage4-snake.svg" width="100%" alt="모션 스네이크" /></a>
+<a href="https://github.com/chaechaechae99/snake"><img src="assets/stage4-snake-v2.svg" width="100%" alt="모션 스네이크" /></a>
 
 **STAGE 5 · 도트 축구** &nbsp; `▶ 개발 중`  
 공 하나, 픽셀 몇 개, 그리고 90분.
 
-<img src="assets/stage5-soccer.svg" width="100%" alt="도트 축구" />
+<img src="assets/stage5-soccer-v2.svg" width="100%" alt="도트 축구" />
 
 **STAGE ? · ???** &nbsp; `🔒 LOCKED`  
 아직 말할 수 없음.
