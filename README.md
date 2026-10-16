@@ -1,6 +1,6 @@
 <img src="assets/player-v2.svg" width="100%" alt="PLAYER STATUS — LV.3 견습 게임 개발자 / SKILL: Python, Windows, Git" />
 
-<img src="assets/arcade-v4.svg" width="100%" alt="CHAE ARCADE" />
+<img src="assets/arcade-v5.svg" width="100%" alt="CHAE ARCADE" />
 
 ### 🕹 STAGE SELECT
 
